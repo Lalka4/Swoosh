@@ -7,5 +7,16 @@
     <string name="get_started">GET STARTED</string>
     <string name="fontimage">fontimage</string>
     <string name="logo">logo</string>
-    <string name="logo3">logo3</string>
+    <string name="desired_league">Desired League:</string>
+    <string name="next">NEXT</string>
+    <string name="men">Men</string>
+    <string name="co_ed">Co-ed</string>
+    <string name="women">Women</string>
+    <string name="fontimage3">fontimage3</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
+    <string name="finish">FINISH</string>
+    <string name="fontimage2">fontimage2</string>
+    <string name="fontimage4">fontimage4</string>
 </resources>

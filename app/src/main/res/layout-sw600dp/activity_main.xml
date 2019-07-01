@@ -31,7 +31,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView" android:textColor="#FFFFFF"
-            android:fontFamily="@font/montserrat" android:textSize="56sp" android:layout_marginEnd="8dp"
+            android:fontFamily="@font/montserrat" android:textSize="68sp" android:layout_marginEnd="8dp"
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginStart="8dp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintHorizontal_bias="0.495"
@@ -42,7 +42,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView2" android:textColor="#FFFFFF"
-            android:fontFamily="@font/montserrat" android:textSize="28sp"
+            android:fontFamily="@font/montserrat" android:textSize="34sp"
             android:textAlignment="center"
             android:layout_marginStart="8dp" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent"
@@ -50,9 +50,9 @@
             app:layout_constraintBottom_toTopOf="@+id/guideline"/>
     <TextView
             android:text="@string/find_a_team_in_your_city_and_dominate_the_league"
-            android:layout_height="63dp"
+            android:layout_height="83dp"
             android:id="@+id/textView3" android:textColor="@color/colorAccent"
-            android:textAlignment="center" android:textSize="22sp"
+            android:textAlignment="center" android:textSize="32sp"
             android:layout_width="0dp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.0"
@@ -63,12 +63,12 @@
     <Button
             android:text="@string/get_started"
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="80dp"
             android:id="@+id/getStartedBtn"
             android:layout_marginBottom="16dp"
             app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:layout_marginStart="16dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="16dp"
-            android:fontFamily="@font/montserrat" android:textSize="20sp" android:textColor="@android:color/white"
+            android:layout_marginStart="32dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="32dp"
+            android:fontFamily="@font/montserrat" android:textSize="37sp" android:textColor="@android:color/white"
             android:background="@drawable/swooshbtn" android:textAlignment="center" android:onClick="getStartedBtn"/>
     <androidx.constraintlayout.widget.Guideline
             android:orientation="horizontal"
